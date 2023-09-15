@@ -1,7 +1,4 @@
 title: David Mould - GitHub Blog
-author:
-  name: David Mould
-  email: "chromedm@live.co.uk"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
