@@ -1,8 +1,5 @@
 title: David Mould - GitHub Blog
-github_username:  jekyll
-author:
-  name: FEDavid [David Mould]
-  email: chromedm@live.co.uk
+github_username:  FEDavid
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
