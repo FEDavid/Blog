@@ -7,5 +7,9 @@
 }
 
 .site-header{
-  background-color: blue;
+  background-color: #444444;
+}
+
+.site-title{
+  color: white;
 }
