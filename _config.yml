@@ -1,6 +1,7 @@
 title: David Mould - GitHub Blog
-github_username:  FEDavid
-linkedin_username: david-mould-0418b856
+author:
+  name: David Mould
+  email: "chromedm@live.co.uk"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -20,6 +21,7 @@ plugins:
 
 # Theme-specific settings
 minima:
+  skin: dark
   social_links:
     - { platform: github,  user_url: "https://github.com/FEDavid" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/david-mould-0418b856/" }
