@@ -1,4 +1,5 @@
 title: David Mould - GitHub Blog
+github_username:  jekyll
 author:
   name: FEDavid [David Mould]
   email: chromedm@live.co.uk
@@ -19,10 +20,6 @@ plugins:
 
 # Theme-specific settings
 minima:
-  # Generate social links in footer.
-  social_links:
-  - { platform: github,         user_url: "https://github.com/FEDavid" }
-
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
