@@ -4,6 +4,8 @@ minima:
   social_links:
   - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
   - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
-author:
-  name: David Mould
-  email: "john.smith@foobar.com"
+  author:
+    name: David Mould
+    email: "john.smith@foobar.com"
+  header_pages:
+  - about.md
