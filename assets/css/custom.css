@@ -13,3 +13,8 @@
 .site-header,.site-title:visited {
     color: #FFFFFF;
 }
+
+.site-footer{
+  padding: 0 0;
+  background-color: #111111;
+}
