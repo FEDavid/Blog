@@ -1,6 +1,6 @@
 html, .site-footer, .site-header{
   background-color: #111111;
-  scrollbar-gutter: stable;
+  overflow-y:scroll;
 }
 
 .footer-col-wrapper{
