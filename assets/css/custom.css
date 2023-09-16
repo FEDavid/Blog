@@ -32,6 +32,6 @@ html, .site-footer, .site-header{
 
 @media only screen and (max-width: 600px) {
   .social-links {
-    background-color: lightblue;
+    margin-bottom: 8px;
   }
 }
