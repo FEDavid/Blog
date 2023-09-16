@@ -33,6 +33,6 @@ html{
   font-weight: 400;
 }
 
-.post-list li:nth-last-child(1), post-list{
+.post-list li:nth-last-child(1), post-list ul{
   margin-bottom: 0px;
 }
