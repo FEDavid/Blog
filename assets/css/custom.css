@@ -30,6 +30,10 @@ html, .site-footer, .site-header{
   padding-bottom: 0;
 }
 
+.post-list ul{
+  margin-bottom: 20px;
+}
+
 @media only screen and (max-width: 600px) {
   .social-links {
     margin-bottom: 8px;
