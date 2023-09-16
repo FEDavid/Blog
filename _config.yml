@@ -36,6 +36,7 @@ minima:
 #
 header_pages:
   - about.md
+  - coursework.md
 
 # Set to `true` to show excerpts on the homepage.
 #
