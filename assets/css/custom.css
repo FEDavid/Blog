@@ -1,4 +1,4 @@
-html, site-footer, site-header{
+html, .site-footer, .site-header{
   background-color: #111111;
 }
 
@@ -10,11 +10,11 @@ html, site-footer, site-header{
   border-top: none;
 }
 
-.site-header,.site-title:visited {
+.site-header, .site-title:visited {
   color: #FFFFFF;
 }
 
-.site-footer, page-content{
+.site-footer, .page-content{
   padding: 15px 15px;
 }
 
@@ -22,7 +22,7 @@ html, site-footer, site-header{
   font-weight: 400;
 }
 
-.post-list li:nth-last-child(1), footer-col, footer-col p{
+.post-list li:nth-last-child(1), .footer-col, .footer-col p{
   margin-bottom: 0;
 }
 
