@@ -32,3 +32,7 @@ html{
 .site-title{
   font-weight: 400;
 }
+
+.post-list li:nth-last-child(1){
+  margin-bottom: 0px;
+}
