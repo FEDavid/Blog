@@ -29,3 +29,9 @@ html, .site-footer, .site-header{
 .page-content{
   padding-bottom: 0;
 }
+
+@media only screen and (max-width: 600px) {
+  .social-links {
+    background-color: lightblue;
+  }
+}
