@@ -11,8 +11,8 @@ body{
   align-items: center;
 }
 
-.site-header{
-  border-top: none;
+.site-header, .site-footer{
+  border: none;
 }
 
 .site-header, .site-title:visited {
