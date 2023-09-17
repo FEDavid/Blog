@@ -2,7 +2,7 @@
 layout: base
 ---
 
-lolololrofl
+roflrofl
 
 <div class="home">
   {%- if page.title -%}
@@ -11,7 +11,7 @@ lolololrofl
 
   {{ content }}
 
-  <hr>
+  <hr >
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -26,7 +26,8 @@ lolololrofl
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      {%- if "Coursework" == post.categories %}
+      {%- assign post_categories = post.categories | split: ', ' -%}
+      {%- if "Coursework" | within: post_categories -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span><span class="post-meta">&nbsp;-&nbsp;Categories: {{ post.categories | join: ', ' }}</span>
         <h3>
