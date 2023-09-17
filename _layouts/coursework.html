@@ -26,7 +26,7 @@ hehehehehehe
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      {%- if "coursework" == post.categories %}
+      {%- if "Coursework" == post.categories %}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span><span class="post-meta">&nbsp;-&nbsp;Categories: {{ post.categories | join: ', ' }}</span>
         <h3>
