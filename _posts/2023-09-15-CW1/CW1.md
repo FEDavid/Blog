@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating a good online presence: what is the best approach?"
-categories: Coursework
+categories: coursework
 ---
 
 Creating a good online presence: what is the best approach?
