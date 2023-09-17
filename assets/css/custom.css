@@ -4,9 +4,6 @@
 
 html{
   scrollbar-gutter: stable;
-}
-
-body{
   background: rgb(17,17,17);
   background: linear-gradient(135deg, rgba(17,17,17,1) 0%, rgba(51,51,51,1) 100%);
 }
