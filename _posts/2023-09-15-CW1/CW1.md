@@ -1,4 +1,5 @@
 ---
+author: David Mould
 layout: post
 title: "Creating a good online presence: what is the best approach?"
 categories: Coursework
