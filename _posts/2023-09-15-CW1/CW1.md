@@ -18,4 +18,4 @@ Reflect on the following:
 - [] What advice does your industry area provide?
 - [] What suggestions, advice or guidelines can you provide to others studying in your subject area? 
 
-> 20/09/2023 // David Mould - Creating a good online presence: what is the best approach?
+'''20/09/2023 // David Mould // Creating a good online presence: what is the best approach?'''
