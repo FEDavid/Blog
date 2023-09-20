@@ -9,6 +9,10 @@ body{
   scrollbar-gutter: stable;
 }
 
+h1,h2,h3,h4{ 
+  border-bottom: 0;
+}
+
 .footer-col-wrapper{
   align-items: center;
 }
