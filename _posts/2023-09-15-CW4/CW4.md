@@ -16,4 +16,4 @@ Consider the following when reflecting upon this topic:
 - [] Use of business cards, established online presence, social etiquette – promoting yourself in a professional manner. 
 - [] What advice and tips would you provide on getting started?
 
-'''20/09/2023 // David Mould // The importance of networking within the creative industries.'''
+```20/09/2023 // David Mould // The importance of networking within the creative industries.```
