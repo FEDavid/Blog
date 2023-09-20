@@ -16,4 +16,4 @@ Reflect upon the pros and cons of being a freelancer within the creative industr
 - [] How would you go about establishing your own business?
 - [] What general advice would you give on this subject to those in your discipline area? 
 
-> 20/09/2023 // David Mould // Working in the creative industries: is freelancing the road to success?
+'''20/09/2023 // David Mould // Working in the creative industries: is freelancing the road to success?'''
