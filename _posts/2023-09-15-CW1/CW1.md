@@ -4,7 +4,8 @@ title: "Creating a good online presence: what is the best approach?"
 categories: Coursework
 ---
 
-### Creating a good online presence: what is the best approach?
+# Creating a good online presence: what is the best approach?
+-----
 
 Consider how you would set out to promote your work online to employers. How would you go about doing this and why? 
 Reflect on the following: 
