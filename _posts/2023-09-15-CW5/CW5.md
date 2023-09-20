@@ -13,6 +13,4 @@ Consider the following aspects in relation to IP Rights:
 - [] Does IP stifle creativity in the creative industries? 
 - [] What are your views on the topic? 
 
-'''
-20/09/2023 // David Mould // IP rights and their importance in the creative industries.
-'''
+```20/09/2023 // David Mould // IP rights and their importance in the creative industries.```
