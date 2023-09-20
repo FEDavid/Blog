@@ -2,8 +2,13 @@
   background-color: #111111;
 }*/
 
-a{
+a, a:visited{
   color: #b175ff;
+}
+
+a:hover{
+    color: #bbb;
+    text-decoration: underline;
 }
 
 body{
