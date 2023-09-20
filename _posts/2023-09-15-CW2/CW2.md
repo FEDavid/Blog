@@ -4,7 +4,6 @@ layout: post
 title: "Does the concept of professionalism apply to the creative industries?"
 categories: Coursework
 ---
-
 Focus on what professionalism means within your subject area in addition to the creative industries. Consider the following points as you write:
 
 - [] What do we mean by the concept of professionalism?
@@ -16,4 +15,4 @@ Focus on what professionalism means within your subject area in addition to the 
 - [] Respect towards your employer, peers, and clients – why is this important?
 - [] Reputation matters – promoting a good image for yourself within your respective industry. 
 
-> 20/09/2023 // David Mould - Does the concept of professionalism apply to the creative industries?
+'''20/09/2023 // David Mould // Does the concept of professionalism apply to the creative industries?'''
