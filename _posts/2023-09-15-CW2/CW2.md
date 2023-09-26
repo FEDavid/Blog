@@ -4,8 +4,6 @@ layout: post
 title: "Does the concept of professionalism apply to the creative industries?"
 categories: Coursework
 ---
-# Does the concept of professionalism apply to the creative industries?
-
 ## Introduction
 Does the concept of professionalism apply to the creative industries? To answer this question, we first need to answer what is meant by professionalism at which point we can then go on to look at why it's important in the creative industries, and more specifically the field I intend on working in - web and mobile Development.
 
@@ -34,7 +32,7 @@ As well as guidelines and standards, having professionalism or being a professio
 In a study performed by Dr Gavin Baxter - University of the West of Scotland lecturer ("An investigation of employability skill sets required by graduates in Scotland's Creative Industries sector") in which the respondents provided their opinions to questions pertaining to the relevancy of certain transferable skills in the creative industries, it was concluded that out of the top 10 options nearly half were relevant to professionalism (diagram below) -
 
 <p align="center">
-  <img src="_posts/2023-09-15-CW2/Figure1.png" alt="Table showing skill relavancy"/>
+  <img src="Figure1.png" alt="Table showing skill relavancy"/>
   <br>
   <em>Figure 1 - Research snippet</em>
 </p>
