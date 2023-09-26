@@ -38,6 +38,10 @@ h1,h2,h3,h4{
   padding: 15px 15px;
 }
 
+.site-footer{
+  padding-top: 0;
+}
+
 .site-title{
   font-weight: 400;
 }
