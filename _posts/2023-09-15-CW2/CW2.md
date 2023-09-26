@@ -31,9 +31,8 @@ As well as guidelines and standards, having professionalism or being a professio
 
 In a study performed by Dr Gavin Baxter - University of the West of Scotland lecturer ("An investigation of employability skill sets required by graduates in Scotland's Creative Industries sector") in which the respondents provided their opinions to questions pertaining to the relevancy of certain transferable skills in the creative industries, it was concluded that out of the top 10 options nearly half were relevant to professionalism (diagram below) -
 
-![Table showing skill relavancy](Picture1.jpg){style="display: block; margin: 0 auto" }
-<br>
-<em>Figure 1 - Research snippet</em>
+![Table showing skill relavancy](Picture1.jpg)
+<br><em>Figure 1 - Research snippet</em>
 
 Time management, communication skills, team working skills, self-management, and leadership skills; all transferrable skills which directly correlate with what I view as professionalism. Whilst the others are not excluded from being relevant, the fact that most of these skills tie directly into professionalism shows the importance that professionalism plays in the creative industries.
 
