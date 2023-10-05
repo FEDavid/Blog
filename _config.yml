@@ -17,7 +17,6 @@ plugins:
   - jekyll-seo-tag
 
 title: David Mould Blog
-description: Welcome to my University blog
 author: David Mould
 
 # Theme-specific settings
