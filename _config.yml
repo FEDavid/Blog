@@ -16,10 +16,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-feed:
-  path: feed.xml
-
 title: David Mould Blog
+description: University blog
 author: David Mould
 
 # Theme-specific settings
