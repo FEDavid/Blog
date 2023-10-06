@@ -81,4 +81,4 @@ Consistency, regular updates - the amount of people who will see your website or
 
 Likewise with a personal website, having a website alone will do nothing, even should you pay for ads/SEO, you need to network online to assure that your site is being seen.
 
-```20/09/2023 // David Mould // Creating a good online presence: what is the best approach?```
+```06/10/2023 // David Mould // Creating a good online presence: what is the best approach?```
