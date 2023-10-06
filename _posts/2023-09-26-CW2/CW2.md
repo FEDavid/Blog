@@ -76,4 +76,4 @@ To conclude, after having went over professionalism in general, how it applies t
 
 Yes, most definitely, in more ways than some consider initially.
 
-```20/09/2023 // David Mould // Does the concept of professionalism apply to the creative industries?```
+```26/09/2023 // David Mould // Does the concept of professionalism apply to the creative industries?```
