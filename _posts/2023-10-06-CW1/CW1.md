@@ -17,29 +17,47 @@ Whether you are a freelancer or are looking to establish yourself to seek out a 
 - **Specialized platform –** This will differ greatly for each person, but it is important to show off your work (link to "What work should you include and what should you exclude?" section?) through specific platforms suited to your field. To give a few examples;
 
 
-  - **Developers –** GitHub, in my opinion this will always be the primary platform for any sort of developer to showcase their projects as much like LinkedIn it not only provides the feature of showcasing your work but also the ability to comment and collaborate with others on their work, which will help in creating the network required to thrive in the industry. (link to networking section?) ![](RackMultipart20231006-1-deohga_html_c618049ff47ec59.png)
+  - **Developers –** GitHub, in my opinion this will always be the primary platform for any sort of developer to showcase their projects as much like LinkedIn it not only provides the feature of showcasing your work but also the ability to comment and collaborate with others on their work, which will help in creating the network required to thrive in the industry. (link to networking section?)
+
+<p align="center" style="margin: 25px 0 15px 0">
+<img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture5.png" alt="Table showing skill relavancy">
+<br><em>Figure 1 - GitHub page</em>
+</p>
 
   - **Designers –** Artstation, while I have some previous experience in graphic design it was prior to the creation of Artstation, which through my interest in gaming (not academically) I have seen used on many occasions by games developers and animators to showcase their work, upcoming work or conceptual designs.
 
 **RESEARCH ART STATION A LITTLE**
   -
- ![](RackMultipart20231006-1-deohga_html_409c7d8cfcc1539e.png)
+<p align="center" style="margin: 25px 0 15px 0">
+<img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture4.png" alt="Table showing skill relavancy">
+<br><em>Figure 2 - ArtStation page</em>
+</p>
 
   - **Sound/Animation –** For sound specifically you will be looking at Soundcloud, which for the longest time has been the most popular option for sharing audio and sound for musicians and sound engineers alike. However, the second option which is the primary option for animators/video editors is also a very popular option for those looking to get into sound – YouTube.
 
  The tools and features available on YouTube make it one of if not the best option for these types of professionals as it not only offers options to publicly showcase work, but also allows the option to "unlist" videos, meaning they can only be viewed by those with the link. This is beneficial for showcasing pieces to clients who don't want their work shared publicly, or for creating specific pieces for interviews.
- ![](RackMultipart20231006-1-deohga_html_9cb645fa16162811.png)
+
+<p align="center" style="margin: 25px 0 15px 0">
+<img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture3.png" alt="Table showing skill relavancy">
+<br><em>Figure 3 - Soundcloud page</em>
+</p>
 
 - **Personal website –** While the above offers a myriad of features and tools already created, sometimes (especially in web development) you can never beat having your own personal website. This showcases, ignoring any work included, your ability to build a site fit for purpose. You also have the benefit of including any features you wish and linking to your other platforms as well.
 
  This does however come with some caveats as you not only need to market/advertise the website, whether you do this with online ads or in person networking but convince any potential clients or employers to look at your site. While most (looking at the below research we will look at in a moment) do not have a problem with this, in my opinion you will still be required to utilize some of the other platforms as having your own personal website alone will not be sufficient.
 
- ![](RackMultipart20231006-1-deohga_html_f34a447ec19c6dc3.png)
+<p align="center" style="margin: 25px 0 15px 0">
+<img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture2.png" alt="Table showing skill relavancy">
+<br><em>Figure 4 - Portfolio page</em>
+</p>
 
 
 To cite from research performed by Dr Gavin Baxter, a question asked "participants were asked to rate the effectiveness of online delivery mechanisms for showcasing their work to prospective employers":
 
-![](RackMultipart20231006-1-deohga_html_82b694659be6839b.png)
+<p align="center" style="margin: 25px 0 15px 0">
+<img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture1.png" alt="Table showing skill relavancy">
+<br><em>Figure 5 - GitHub page</em>
+</p>
 
 The research above shows what current professionals in the creative industries feel regarding the platforms mentioned, but to reiterate a point from earlier I would like to see how many have just a personal website and no other platform as I believe that these in combination is the true method to success.
 
