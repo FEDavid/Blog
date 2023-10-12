@@ -16,6 +16,11 @@ hr{
   margin-bottom: 20px;
 }
 
+h1, h2 {
+    color: #9e66f0;
+    font-weight: bold;
+}
+
 .page-content{
   margin-bottom: -15px;
 }
