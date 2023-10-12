@@ -4,8 +4,6 @@ layout: post
 title: "The importance of networking within the creative industries."
 categories: Coursework
 ---
-# **The importance of networking within the creative industries.**
-
 ## What do we mean by networking?
 
 Networking is the term used to describe putting oneself out into the environment their field belongs to. It can differ greatly depending on your field, but in general describes things such as: events, meet-ups, job fairs, however not every type of networking takes place in person as these days there are other tools available such as LinkedIn. To me, the word means in a literal sense to insert yourself into the network of individuals who build up your profession and become one of them.
