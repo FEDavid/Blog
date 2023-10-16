@@ -29,7 +29,7 @@ When the topic of IP rights are brought up, discussing whether or not they affec
 https://dailyinfographic.com/the-evolution-of-video-game-controllers
 
 <p align="center" style="margin: 25px 0 15px 0">
-<img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-16-CW5/picture1.jpg" alt="Table showing skill relavancy">
+<img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-16-CW5/picture1.jpg" alt="Table showing skill relavancy" onclick="window.open(this.src)">
 <br><em>Figure 1 - Evolution of video game controllers</em>
 </p>
 
