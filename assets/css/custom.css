@@ -4,10 +4,11 @@
 
 a, a:visited{
   color: #b175ff;
+  font-weight: 610;
 }
 
 a:hover{
-    color: #bbb;
+    color: #fff;
     text-decoration: underline;
 }
 
@@ -61,7 +62,7 @@ h1,h2,h3,h4{
   padding-top: 0;
 }
 
-.site-title, post-link{
+.site-title{
   font-weight: 610;
 }
 
