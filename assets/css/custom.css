@@ -26,8 +26,9 @@ h1, h2 {
 }
 
 body{
-  background: rgb(17,17,17);
-  background: linear-gradient(135deg, rgba(17,17,17,1) 0%, rgba(51,51,51,1) 100%);
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1700%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%26quot%3b%23SvgjsLinearGradient1701%26quot%3b)'%3e%3c/rect%3e%3cpath d='M0 0L203.42 0L0 188.6z' fill='rgba(255%2c 255%2c 255%2c .1)'%3e%3c/path%3e%3cpath d='M0 188.6L203.42 0L792.3399999999999 0L0 337.66999999999996z' fill='rgba(255%2c 255%2c 255%2c .075)'%3e%3c/path%3e%3cpath d='M0 337.66999999999996L792.3399999999999 0L1126.6799999999998 0L0 471.91999999999996z' fill='rgba(255%2c 255%2c 255%2c .05)'%3e%3c/path%3e%3cpath d='M0 471.91999999999996L1126.6799999999998 0L1194.2399999999998 0L0 522.1899999999999z' fill='rgba(255%2c 255%2c 255%2c .025)'%3e%3c/path%3e%3cpath d='M1440 560L913.94 560L1440 348.99z' fill='rgba(0%2c 0%2c 0%2c .1)'%3e%3c/path%3e%3cpath d='M1440 348.99L913.94 560L591.1800000000001 560L1440 191.05z' fill='rgba(0%2c 0%2c 0%2c .075)'%3e%3c/path%3e%3cpath d='M1440 191.05L591.1800000000001 560L324.7800000000001 560L1440 93.93z' fill='rgba(0%2c 0%2c 0%2c .05)'%3e%3c/path%3e%3cpath d='M1440 93.93L324.7800000000002 560L200.9400000000002 560L1440 81.05000000000001z' fill='rgba(0%2c 0%2c 0%2c .025)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1700'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='84.72%25' y1='139.29%25' x2='15.28%25' y2='-39.29%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1701'%3e%3cstop stop-color='rgba(16%2c 10%2c 54%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(43%2c 0%2c 64%2c 0.78)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+  background-size: cover;
+  background-position: center;
   overflow-y: auto;
   scrollbar-gutter: stable;
 }
@@ -60,8 +61,8 @@ h1,h2,h3,h4{
   padding-top: 0;
 }
 
-.site-title{
-  font-weight: 400;
+.site-title, post-link{
+  font-weight: 610;
 }
 
 .post-list li:nth-last-child(1), .footer-col, .footer-col p{
