@@ -93,6 +93,31 @@ div.post-content p{
   color: white;
 }
 
+.post-content{
+  table, thead, th, td, tr{
+    border: 0;
+    vertical-align: top;
+    background-color: transparent !important;
+  }
+  
+  thead{
+    text-align: center;
+    padding: 15px;
+    background-color: #9e66f0 !important;
+    color: #111111;
+    font-size: 1.5rem;
+  }
+  
+  td{
+    padding: 15px; 15px 0 15px;
+    border-top: 1px solid #9e66f0;
+  }
+  
+  tr td:nth-child(2){
+    border-left: 1px solid #9e66f0;
+  }
+}
+
 @media only screen and (max-width: 600px) {
   .social-links {
     margin-bottom: 8px;
