@@ -111,6 +111,7 @@ div.post-content p{
   td{
     padding: 15px; 15px 0 15px;
     border-top: 1px solid #9e66f0;
+    color: white;
   }
   
   tr td:nth-child(2){
