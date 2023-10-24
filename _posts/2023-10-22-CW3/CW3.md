@@ -15,7 +15,10 @@ A freelancer is someone who works for themselves, they're not employed by anyone
 
 As a freelancer some of the typical skills that people within the creative industries do cross-over, however should you choose to go off on your own you need to consider whether this will be something viable for you. Looking back again to the research performed by Dr Gavin Baxter, in which participants were asked "to rate the importance of the following hard and soft skill sets within the context of their industry discipline.", we can see a few skills that have some crossover with what would be expected to be vital for freelancers.
 
-![](RackMultipart20231022-1-f0d693_html_768b7288ab628057.png)
+<p align="center" style="margin: 25px 0 15px 0">
+<img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-22-CW3/picture1.png" alt="List of skills" onclick="window.open(this.src)">
+<br><em>Figure 1 - List of skills</em>
+</p>
 
 Leaderships skills, self-management, time management – these 3 skills I wish to highlight immediately as these are essential to master should you wish to go freelancing as at the end of the day you are your own manager, you will manage the full project and it's timescales, and you will be speaking with clients directly to discuss any issues. If you are not confident with these skills, then freelancing may not be viable for you.
 
