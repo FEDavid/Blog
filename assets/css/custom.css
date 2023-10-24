@@ -24,6 +24,7 @@ h1, h2 {
 
 .page-content{
   margin-bottom: -15px;
+  padding: 0;
 }
 
 body{
@@ -37,6 +38,10 @@ body{
 
 h1,h2,h3,h4{ 
   border-bottom: 0;
+}
+
+.site-header{
+  line-height: 100px;
 }
 
 .footer-col-wrapper{
@@ -59,7 +64,7 @@ h1,h2,h3,h4{
   color: #FFFFFF;
 }
 
-.site-footer, .page-content{
+.site-footer{
   padding: 15px 15px;
 }
 
