@@ -30,7 +30,7 @@ As a freelancer you must promote yourself starting the ways I would recommend an
 
 When it comes to freelancing it is vital to maintain a professional reputation as a sizeable amount of your clients will come through word of mouth and without this you will be cut off from a portion of potential clients. Not only this, but if you are known for being unprofessional and for going as far as having a poor reputation, this may also travel through word of mouth and can result in the loss of client's trust, and therefore business.
 
-## What are the benefits and drawbacks of freelancing within the creative industries? (e.g., focus on your discipline area).
+## What are the benefits and drawbacks of freelancing within the creative industries?
 
 If you are considering moving into freelancing, it is ideal to weigh up the pros and cons prior to starting. Some of these will apply to most positions within the creative industries, however I have added some that are specific to my own field, web and mobile development.
 
