@@ -4,6 +4,9 @@ layout: post
 title: "Working in the creative industries: is freelancing the road to success?"
 categories: Coursework
 ---
+* TOC
+{:toc}
+
 ## What does it mean to be a freelancer?
 
 A freelancer is someone who works for themselves, they're not employed by anyone else but can sometimes be contracted by employers. In essence this means that while normally as an employee you would be expected to (typically) manage just your own workload and not consider things such as finances, marketing, and legal issues. However, as a freelancer these are vital things to consider as you need to manage these things, and as such can be a much more stressful option to choose but also one that requires a lot of other skills not normally needed by a standard employee.
