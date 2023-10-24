@@ -66,6 +66,6 @@ Whether you choose to be a freelancer or not, a lot of what is covered by a free
 Given that I have done some freelancing before, I have also provided some links below to companies that can either assist with your freelancing, through advice or tips, or facilitate it by providing a platform.
 - [https://www.bgateway.com/events/](https://www.bgateway.com/) Business Gateway is a public service that facilitates and offers advice to those looking to start a new business. They have online materials and webinars that you can attend, as well as in person meetings.
 - [https://www.upwork.com/](https://www.upwork.com/) Upwork is one of the two companies I would suggest should you wish to look into freelancing, as they offer tools and features on their site to help freelancers not only get work and adverstise themselves, but also to collect monies earned by using them as a middle man service.
-- [https://www.fiverr.com/?utm_source=56213&utm_medium=cx_affiliate&utm_campaign=&afp=&cxd_token=56213_18195607&show_join=true](https://www.fiverr.com/?utm_source=56213&utm_medium=cx_affiliate&utm_campaign=&afp=&cxd_token=56213_18195607&show_join=true) Fiverr is similar to Upwork in what it offers, so it would essentially just come down to preference.
+- [https://www.fiverr.com/](https://www.fiverr.com/) Fiverr is similar to Upwork in what it offers, so it would essentially just come down to preference.
 
 ```22/10/2023 // David Mould // Working in the creative industries: is freelancing the road to success?```
