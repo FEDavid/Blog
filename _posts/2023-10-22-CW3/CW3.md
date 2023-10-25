@@ -58,8 +58,8 @@ If I had to offer any advice it would be the following;
   To make a slight point with this, a clip from Dragon's den (business investment show) shows someone who has their own business and is making profit but remains conscious enough that it can fall apart overnight and chooses to keep their permanent job. One of the "Dragons" (what the show calls the investors) criticizes this stating "You lack confidence in this idea" while another Dragon – who I agree with – stated "I don't agree..you've got a family..you've got two kids..and they come first". This is a vital part of moving into freelancing as you may not understand the ramifications should you not fully succeed. 
 
 
-<p style="text-align: center; margin: 1rem 0 1rem 0;">
-  <iframe width="445" height="791" src="https://www.youtube.com/embed/3jkOimQax0A" title="Why DON’T You LEAVE Your Job? 😡 #wealth #money #business #dragonsden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p style="text-align: center; margin: 1rem 0 1rem 0; padding: 1rem;">
+  <iframe style="background-color: #9e66f0; padding: 1rem;" width="445" height="791" src="https://www.youtube.com/embed/3jkOimQax0A" title="Why DON’T You LEAVE Your Job? 😡 #wealth #money #business #dragonsden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 
