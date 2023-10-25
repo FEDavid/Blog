@@ -59,7 +59,7 @@ If I had to offer any advice it would be the following;
 
 
 <p style="text-align: center; margin: 1rem 0 1rem 0; padding: 1rem;">
-  <iframe style="background-color: #9e66f0; padding: 1rem;" width="445" height="791" src="https://www.youtube.com/embed/3jkOimQax0A" title="Why DON’T You LEAVE Your Job? 😡 #wealth #money #business #dragonsden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe style="background-color: #9e66f0; padding: 1rem;" width="445" height="400" src="https://www.youtube.com/embed/3jkOimQax0A" title="Why DON’T You LEAVE Your Job? 😡 #wealth #money #business #dragonsden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 
