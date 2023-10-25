@@ -4,6 +4,9 @@ layout: post
 title: "IP rights and their importance in the creative industries."
 categories: Coursework
 ---
+* TOC
+{:toc}
+
 ## What do we mean by the term IP? (i.e., intellectual property).
 Intellectual property is someone’s idea for something, whether it be a product, style or name for example. Io give the exact wording, the WIPO who are described as “the global forum for intellectual property (IP) services, policy, information and cooperation” states Intellectual Property as “Intellectual property (IP) refers to creations of the mind, such as inventions; literary and artistic works; designs; and symbols, names and images used in commerce.”.
 
