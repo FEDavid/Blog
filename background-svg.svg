@@ -1,0 +1,24 @@
+<svg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'>
+    <g mask='url("#SvgjsMask1700")' fill='none'>
+        <rect width='1440' height='560' x='0' y='0' fill='url("#SvgjsLinearGradient1701")'></rect>
+        <path d='M0 0L203.42 0L0 188.6z' fill='rgba(255, 255, 255, .1)'></path>
+        <path d='M0 188.6L203.42 0L792.3399999999999 0L0 337.66999999999996z' fill='rgba(255, 255, 255, .075)'></path>
+        <path d='M0 337.66999999999996L792.3399999999999 0L1126.6799999999998 0L0 471.91999999999996z' fill='rgba(255, 255, 255, .05)'></path>
+        <path d='M0 471.91999999999996L1126.6799999999998 0L1194.2399999999998 0L0 522.1899999999999z' fill='rgba(255, 255, 255, .025)'></path>
+        <path d='M1440 560L913.94 560L1440 348.99z' fill='rgba(0, 0, 0, .1)'></path>
+        <path d='M1440 348.99L913.94 560L591.1800000000001 560L1440 191.05z' fill='rgba(0, 0, 0, .075)'></path>
+        <path d='M1440 191.05L591.1800000000001 560L324.7800000000001 560L1440 93.93z' fill='rgba(0, 0, 0, .05)'></path>
+        <path d='M1440 93.93L324.7800000000002 560L200.9400000000002 560L1440 81.05000000000001z' fill='rgba(0, 0, 0, .025)'></path>
+    </g>
+    <defs>
+        <mask id='SvgjsMask1700'>
+            <rect width='1440' height='560' fill='white'></rect>
+        </mask>
+        <linearGradient x1='84.72%' y1='139.29%' x2='15.28%' y2='-39.29%' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1701'>
+            <stop stop-color='rgba(16, 10, 54, 1)' offset='0'></stop>
+            <stop stop-color='rgba(43, 0, 64, 0.78)' offset='1'></stop>
+        </linearGradient>
+    </defs>
+    <!-- Add a black rectangle on top with 0.25 opacity to darken the SVG -->
+    <rect width='1440' height='560' fill='black' opacity='0.25'></rect>
+</svg>
