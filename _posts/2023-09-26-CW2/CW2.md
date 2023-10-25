@@ -4,6 +4,9 @@ layout: post
 title: "Does the concept of professionalism apply to the creative industries?"
 categories: Coursework
 ---
+* TOC
+{:toc}
+
 ## Introduction
 Does the concept of professionalism apply to the creative industries? To answer this question, we first need to answer what is meant by professionalism at which point we can then go on to look at why it's important in the creative industries, and more specifically the field I intend on working in - web and mobile Development.
 
