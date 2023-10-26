@@ -28,10 +28,10 @@ Whether you are a freelancer or are looking to establish yourself to seek out a 
 
 <br><br>
 <div class="img_gallery_container">
-  <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture5.png" alt="Table showing skill relavancy" onclick="window.open(this.src)"></div>
-  <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture4.png" alt="Table showing skill relavancy" onclick="window.open(this.src)"></div>
-  <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture3.png" alt="Table showing skill relavancy" onclick="window.open(this.src)"></div>
-  <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture2.png" alt="Table showing skill relavancy" onclick="window.open(this.src)"></div>
+  <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture5.png" alt="GitHub page example" title="GitHub page example" onclick="window.open(this.src)"></div>
+  <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture4.png" alt="ArtStation page example" title="ArtStation page example" onclick="window.open(this.src)"></div>
+  <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture3.png" alt="Soundcloud page example" title="Soundcloud page example" onclick="window.open(this.src)"></div>
+  <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture2.png" alt="Website page example" title="Website page example" onclick="window.open(this.src)"></div>
 </div>
 <br><br>
 
