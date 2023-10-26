@@ -15,7 +15,7 @@ Through networking you will build up contacts who will be able to assist in guid
 
 <p style="text-align: center">
   <br>
-  <iframe height="315" src="https://www.youtube.com/embed/6a_KF7TYKVc?si=iB5AlcEgQ_RWjT3i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/6a_KF7TYKVc?si=iB5AlcEgQ_RWjT3i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## Why is networking important in the creative industries?
