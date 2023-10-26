@@ -119,6 +119,19 @@ div.post-content p, div.post-content li {
   }
 }
 
+.img_gallery_container{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: blue;
+}
+
+.img_gallery_container div{
+  width: 50%;
+  height: 50%;
+}
+
 @media only screen and (max-width: 600px) {
   .social-links {
     margin-bottom: 8px;
