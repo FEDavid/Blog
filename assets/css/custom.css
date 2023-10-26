@@ -130,6 +130,11 @@ div.post-content p, div.post-content li {
 .img_gallery_container div{
   width: 50%;
   height: 50%;
+  background-color: black;
+}
+
+.img_gallery_container div img:hover{
+  opacity: 0.65;
 }
 
 @media only screen and (max-width: 600px) {
