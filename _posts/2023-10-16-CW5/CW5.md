@@ -26,6 +26,11 @@ One of, if not the most famous case of IP rights is Winklevoss twins V Zuckerber
 
 However, after years of litigation and meetings, Facebook (Zuckerberg) eventually settled for nearly $20 million dollars with ConnectU (Winklevoss twins). Although what appeared to be a small idea between University students at the time, lead to a legal case worth millions and a company now worth billions. 
 
+<p style="width: 100%;">
+  <br><br>
+  <iframe height="350" src="https://www.youtube.com/embed/4BjIOOrjUBk?si=kKi1FDybwekRrlOV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
 ## Does IP stifle creativity in the creative industries? My views on IP rights and copyright.
 When the topic of IP rights are brought up, discussing whether or not they affect those trying to create new and better products within the creative industries I always look to games controllers. As a massive gamer myself (Gameboy colour, Gameboy SP, 3DS, Xbox, Xbox 360, Playstation 1, 2, and 3, Nintendo 64, Gamecube, Wii, WiiU, Switch) I have seen all there is to offer in the form of game controllers, and despite how similar some are there have been no famous cases in which companies have sued each other for IP or copyright infringement.
 
