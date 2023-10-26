@@ -67,10 +67,8 @@ This is not an easy question to answer by any means, as nearly everyone is going
 ## What advice does your industry area provide and what can you provide?
 
 Below are two pages I have personally looked at that cover tips to take into consideration when marketing yourself online, whether it be through a portfolio or by other means, while also covering the specific tips on web development and design.
-
-[https://www.godaddy.com/resources/skills/5-ways-to-promote-your-web-design-business](https://www.godaddy.com/resources/skills/5-ways-to-promote-your-web-design-business)
-
-[https://medium.com/chingu/tips-for-the-beginning-developer-from-a-beginner-developer-b2a5cf736a35](https://medium.com/chingu/tips-for-the-beginning-developer-from-a-beginner-developer-b2a5cf736a35)
+- [https://www.godaddy.com/resources/skills/5-ways-to-promote-your-web-design-business](https://www.godaddy.com/resources/skills/5-ways-to-promote-your-web-design-business)
+- [https://medium.com/chingu/tips-for-the-beginning-developer-from-a-beginner-developer-b2a5cf736a35](https://medium.com/chingu/tips-for-the-beginning-developer-from-a-beginner-developer-b2a5cf736a35)
 
 The second page, more of a blog post from the writer, is especially good as he provides a lot of useful links for a myriad of purposes that developers would want to utilize.
 
