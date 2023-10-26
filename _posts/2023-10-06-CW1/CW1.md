@@ -39,7 +39,7 @@ To cite from research performed by Dr Gavin Baxter, a question asked "participan
 
 <p align="center" style="margin: 25px 0 15px 0">
 <img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture1.png" alt="Table showing skill relavancy" onclick="window.open(this.src)">
-<br><em>Figure 5 - GitHub page</em>
+<br><em>Figure 5 - Image of research results</em>
 </p>
 
 The research above shows what current professionals in the creative industries feel regarding the platforms mentioned, but to reiterate a point from earlier I would like to see how many have just a personal website and no other platform as I believe that these in combination is the true method to success.
