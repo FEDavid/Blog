@@ -26,14 +26,14 @@ Whether you are a freelancer or are looking to establish yourself to seek out a 
 - **Personal website –** While the above offers a myriad of features and tools already created, sometimes (especially in web development) you can never beat having your own personal website. This showcases, ignoring any work included, your ability to build a site fit for purpose. You also have the benefit of including any features you wish and linking to your other platforms as well.
   This does however come with some caveats as you not only need to market/advertise the website, whether you do this with online ads or in person networking but convince any potential clients or employers to look at your site. While most (looking at the below research we will look at in a moment) do not have a problem with this, in my opinion you will still be required to utilize some of the other platforms as having your own personal website alone will not be sufficient.
 
-<br><br>
+<br>
 <div class="img_gallery_container">
   <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture5.png" alt="GitHub page example" title="GitHub page example" onclick="window.open(this.src)"></div>
   <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture4.png" alt="ArtStation page example" title="ArtStation page example" onclick="window.open(this.src)"></div>
   <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture3.png" alt="Soundcloud page example" title="Soundcloud page example" onclick="window.open(this.src)"></div>
   <div><img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-06-CW1/Picture2.png" alt="Website page example" title="Website page example" onclick="window.open(this.src)"></div>
 </div>
-<br><br>
+<br>
 
 To cite from research performed by Dr Gavin Baxter, a question asked "participants were asked to rate the effectiveness of online delivery mechanisms for showcasing their work to prospective employers":
 
