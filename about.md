@@ -7,10 +7,8 @@ permalink: /about/
 <h1>David Mould - Bsc Web and Mobile development Student</h1>
 </p>
 
-<p style="text-align: center;">
-  
-![](https://avatars.githubusercontent.com/u/91611885?v=4)
-
+<p align="center" style="margin: 25px 0 15px 0">
+<img src="https://avatars.githubusercontent.com/u/91611885?v=4" alt="Image of me" onclick="window.open(this.src)">
 </p>
 
 A hardworking and reliable individual, who can be depended upon to complete all tasks and duties to a very high standard, Organised and practical with excellent time management skills and capable of prioritising my workloads effectively in order to meet existing deadlines. Confident and capable, I enjoy facing new challenges and am able to work on my own initiative with minimal supervision.
