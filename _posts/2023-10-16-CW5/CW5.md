@@ -31,9 +31,7 @@ However, after years of litigation and meetings, Facebook (Zuckerberg) eventuall
 </p>
 
 ## Does IP stifle creativity in the creative industries? My views on IP rights and copyright.
-When the topic of IP rights are brought up, discussing whether or not they affect those trying to create new and better products within the creative industries I always look to games controllers. As a massive gamer myself (Gameboy colour, Gameboy SP, 3DS, Xbox, Xbox 360, Playstation 1, 2, and 3, Nintendo 64, Gamecube, Wii, WiiU, Switch) I have seen all there is to offer in the form of game controllers, and despite how similar some are there have been no famous cases in which companies have sued each other for IP or copyright infringement.
-
-https://dailyinfographic.com/the-evolution-of-video-game-controllers
+When the topic of IP rights are brought up, discussing whether or not they affect those trying to create new and better products within the creative industries I always look to games controllers. As a massive gamer myself (Gameboy colour, Gameboy SP, 3DS, Xbox, Xbox 360, Playstation 1, 2, and 3, Nintendo 64, Gamecube, Wii, WiiU, Switch) I have seen all there is to offer in the form of game controllers, and despite how similar some are there have been no famous cases in which companies have sued each other for IP or copyright infringement - [https://dailyinfographic.com/the-evolution-of-video-game-controllers] https://dailyinfographic.com/the-evolution-of-video-game-controllers
 
 <p align="center" style="margin: 25px 0 15px 0">
 <img src="https://raw.githubusercontent.com/FEDavid/Blog/main/_posts/2023-10-16-CW5/picture1.jpg" alt="Table showing skill relavancy" onclick="window.open(this.src)">
