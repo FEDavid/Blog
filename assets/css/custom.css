@@ -133,6 +133,13 @@ div.post-content p, div.post-content li {
   background-color: black;
 }
 
+.img_gallery_container div img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: all 0.5s;
+}
+
 .img_gallery_container div img:hover{
   opacity: 0.65;
 }
