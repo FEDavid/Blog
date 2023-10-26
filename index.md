@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Hi there, my name is David Mould. I am currently studying at the University of the West of Scotland, on the Web and Mobile development course. I have made this blog as part of my coursework for University, however I intend on keeping it updated with some other blog pieces or portfolio work. Please feel free to contact me on my social links at the bottom of the page!
