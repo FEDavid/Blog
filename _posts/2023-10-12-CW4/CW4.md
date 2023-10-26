@@ -14,8 +14,8 @@ Networking is the term used to describe putting oneself out into the environment
 Through networking you will build up contacts who will be able to assist in guiding you or directing you towards others who may be able to instead, in some circumstances it may even lead to jobs or clients approaching you through word of mouth. Unfortunately I am quite old, and I can recall seeing a video on YouTube that comedically covers the very basics of networking - both in person, and the introduction to online networking.
 
 <p style="text-align: center">
-  <br><br>
-  <iframe width="800" height="315" src="https://www.youtube.com/embed/6a_KF7TYKVc?si=iB5AlcEgQ_RWjT3i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <br>
+  <iframe height="315" src="https://www.youtube.com/embed/6a_KF7TYKVc?si=iB5AlcEgQ_RWjT3i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## Why is networking important in the creative industries?
