@@ -145,6 +145,10 @@ div.post-content p, div.post-content li {
   opacity: 0.65;
 }
 
+.cp_embed_wrapper iframe{
+  height: 500px;
+}
+
 @media only screen and (max-width: 600px) {
   .social-links {
     margin-bottom: 8px;
